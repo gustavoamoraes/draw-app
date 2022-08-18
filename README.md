@@ -1,3 +1,3 @@
 # draw-app
 
-Requirements: pyagme
+Requirements: pygame
